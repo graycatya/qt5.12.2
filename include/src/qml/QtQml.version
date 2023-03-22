@@ -1,0 +1,307 @@
+Qt_5_PRIVATE_API {
+    qt_private_api_tag*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/animations/qabstractanimationjob_p.h */
+    *21QAbstractAnimationJob*;
+    *27QAnimationJobChangeListener*;
+    *18QQmlAnimationTimer*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/animations/qanimationgroupjob_p.h */
+    *18QAnimationGroupJob*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/animations/qcontinuinganimationgroupjob_p.h */
+    *28QContinuingAnimationGroupJob*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/animations/qparallelanimationgroupjob_p.h */
+    *26QParallelAnimationGroupJob*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/animations/qpauseanimationjob_p.h */
+    *18QPauseAnimationJob*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/animations/qsequentialanimationgroupjob_p.h */
+    *28QSequentialAnimationGroupJob*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/compiler/qqmlirbuilder_p.h */
+    *28CompiledFunctionOrExpression*;
+    *6Object*;
+    *6Pragma*;
+    *8Document*;
+    *25ScriptDirectivesCollector*;
+    *9IRBuilder*;
+    *16QmlUnitGenerator*;
+    *16PropertyResolver*;
+    *9JSCodeGen*;
+    *8IRLoader*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/compiler/qv4codegen_p.h */
+    *7Codegen*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/compiler/qv4compileddata_p.h */
+    *15TranslationData*;
+    *7Binding*;
+    *19CompilationUnitBase*;
+    *15CompilationUnit*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/compiler/qv4compiler_p.h */
+    *20StringTableGenerator*;
+    *15JSUnitGenerator*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/debugger/qqmlabstractprofileradapter_p.h */
+    *27QQmlAbstractProfilerAdapter*;
+    *34QQmlAbstractProfilerAdapterFactory*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/debugger/qqmldebugconnector_p.h */
+    *18QQmlDebugConnector*;
+    *18QQmlDebugConnector*;
+    *25QQmlDebugConnectorFactory*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/debugger/qqmldebugserver_p.h */
+    *15QQmlDebugServer*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/debugger/qqmldebugserverconnection_p.h */
+    *25QQmlDebugServerConnection*;
+    *32QQmlDebugServerConnectionFactory*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/debugger/qqmldebugservice_p.h */
+    *16QQmlDebugService*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/debugger/qqmldebugservicefactory_p.h */
+    *23QQmlDebugServiceFactory*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/debugger/qqmldebugserviceinterfaces_p.h */
+    *15QV4DebugService*;
+    *19QQmlProfilerService*;
+    *22QQmlEngineDebugService*;
+    *20QQmlInspectorService*;
+    *20QDebugMessageService*;
+    *24QQmlEngineControlService*;
+    *22QQmlNativeDebugService*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/debugger/qqmlmemoryprofiler_p.h */
+    *15QQmlMemoryScope*;
+    *18QQmlMemoryProfiler*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/debugger/qqmlprofiler_p.h */
+    *16QQmlProfilerData*;
+    *12QQmlProfiler*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/jsapi/qjsengine_p.h */
+    *16QJSEnginePrivate*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/jsapi/qjsvalue_p.h */
+    *15QJSValuePrivate*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/jsruntime/qv4arraybuffer_p.h */
+    *17SharedArrayBuffer*;
+    *11ArrayBuffer*;
+    *17SharedArrayBuffer*;
+    *11ArrayBuffer*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/jsruntime/qv4arraydata_p.h */
+    *9ArrayData*;
+    *15SimpleArrayData*;
+    *15SparseArrayData*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/jsruntime/qv4context_p.h */
+    *16ExecutionContext*;
+    *11CallContext*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/jsruntime/qv4debugging_p.h */
+    *8Debugger*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/jsruntime/qv4engine_p.h */
+    *15ExecutionEngine*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/jsruntime/qv4enginebase_p.h */
+    *10EngineBase*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/jsruntime/qv4executableallocator_p.h */
+    *19ExecutableAllocator*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/jsruntime/qv4function_p.h */
+    *8Function*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/jsruntime/qv4functionobject_p.h */
+    *14FunctionObject*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/jsruntime/qv4global_p.h */
+    *10StackFrame*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/jsruntime/qv4globalobject_p.h */
+    *12EvalFunction*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/jsruntime/qv4identifiertable_p.h */
+    *15IdentifierTable*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/jsruntime/qv4managed_p.h */
+    *7Managed*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/jsruntime/qv4module_p.h */
+    *6Module*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/jsruntime/qv4object_p.h */
+    *6Object*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/jsruntime/qv4objectiterator_p.h */
+    *14ObjectIterator*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/jsruntime/qv4persistent_p.h */
+    *22PersistentValueStorage*;
+    *15PersistentValue*;
+    *9WeakValue*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/jsruntime/qv4profiling_p.h */
+    *8Profiler*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/jsruntime/qv4promiseobject_p.h */
+    *13PromiseObject*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/jsruntime/qv4qmlcontext_p.h */
+    *18QQmlContextWrapper*;
+    *10QmlContext*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/jsruntime/qv4qobjectwrapper_p.h */
+    *14QObjectWrapper*;
+    *14QObjectWrapper*;
+    *13QObjectMethod*;
+    *18QMetaObjectWrapper*;
+    *16QmlSignalHandler*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/jsruntime/qv4runtime_p.h */
+    *14RuntimeHelpers*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/jsruntime/qv4runtimeapi_p.h */
+    *7Runtime*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/jsruntime/qv4script_p.h */
+    *6Script*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/jsruntime/qv4sparsearray_p.h */
+    *11SparseArray*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/jsruntime/qv4stackframe_p.h */
+    *13CppStackFrame*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/jsruntime/qv4string_p.h */
+    *14StringOrSymbol*;
+    *6String*;
+    *14StringOrSymbol*;
+    *6String*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/jsruntime/qv4typedarray_p.h */
+    *10TypedArray*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/jsruntime/qv4value_p.h */
+    *5Value*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/memory/qv4heap_p.h */
+    *4Base*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/memory/qv4mm_p.h */
+    *13MemoryManager*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/qml/qqmlabstractbinding_p.h */
+    *19QQmlAbstractBinding*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/qml/qqmlapplicationengine_p.h */
+    *28QQmlApplicationEnginePrivate*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/qml/qqmlbinding_p.h */
+    *11QQmlBinding*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/qml/qqmlboundsignal_p.h */
+    *25QQmlBoundSignalExpression*;
+    *15QQmlBoundSignal*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/qml/qqmlboundsignalexpressionpointer_p.h */
+    *32QQmlBoundSignalExpressionPointer*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/qml/qqmlcleanup_p.h */
+    *11QQmlCleanup*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/qml/qqmlcomponent_p.h */
+    *20QQmlComponentPrivate*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/qml/qqmlcomponentattached_p.h */
+    *21QQmlComponentAttached*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/qml/qqmlcontext_p.h */
+    *15QQmlContextData*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/qml/qqmlcustomparser_p.h */
+    *16QQmlCustomParser*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/qml/qqmldata_p.h */
+    *18QQmlContextDataRef*;
+    *8QQmlData*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/qml/qqmldirparser_p.h */
+    *13QQmlDirParser*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/qml/qqmlengine_p.h */
+    *17QQmlEnginePrivate*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/qml/qqmlfileselector_p.h */
+    *23QQmlFileSelectorPrivate*;
+    *27QQmlFileSelectorInterceptor*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/qml/qqmlglobal_p.h */
+    *21QQmlValueTypeProvider*;
+    *17QQmlColorProvider*;
+    *15QQmlGuiProvider*;
+    *15QQmlApplication*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/qml/qqmlimport_p.h */
+    *11QQmlImports*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/qml/qqmljavascriptexpression_p.h */
+    *24QQmlJavaScriptExpression*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/qml/qqmllistwrapper_p.h */
+    *14QmlListWrapper*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/qml/qqmllocale_p.h */
+    *10QQmlLocale*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/qml/qqmlmetatype_p.h */
+    *12QQmlMetaType*;
+    *8QQmlType*;
+    *39QQmlMetaTypeRegistrationFailureRecorder*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/qml/qqmlnotifier_p.h */
+    *12QQmlNotifier*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/qml/qqmlobjectcreator_p.h */
+    *17QQmlObjectCreator*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/qml/qqmlopenmetaobject_p.h */
+    *22QQmlOpenMetaObjectType*;
+    *18QQmlOpenMetaObject*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/qml/qqmlplatform_p.h */
+    *12QQmlPlatform*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/qml/qqmlproperty_p.h */
+    *19QQmlPropertyPrivate*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/qml/qqmlpropertycache_p.h */
+    *17QQmlPropertyCache*;
+    *14QQmlMetaObject*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/qml/qqmlpropertyvalueinterceptor_p.h */
+    *28QQmlPropertyValueInterceptor*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/qml/qqmlscriptstring_p.h */
+    *23QQmlScriptStringPrivate*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/qml/qqmltypeloader_p.h */
+    *12QQmlDataBlob*;
+    *14QQmlTypeLoader*;
+    *12QQmlTypeData*;
+    *14QQmlScriptData*;
+    *14QQmlScriptBlob*;
+    *14QQmlQmldirData*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/qml/qqmltypenamecache_p.h */
+    *17QQmlTypeNameCache*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/qml/qqmltypewrapper_p.h */
+    *15QQmlTypeWrapper*;
+    *21QQmlScopedEnumWrapper*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/qml/qqmlvaluetype_p.h */
+    *13QQmlValueType*;
+    *20QQmlValueTypeFactory*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/qml/qqmlvaluetypeproxybinding_p.h */
+    *25QQmlValueTypeProxyBinding*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/qml/qqmlvaluetypewrapper_p.h */
+    *20QQmlValueTypeWrapper*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/qml/qqmlvme_p.h */
+    *7QQmlVME*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/qml/qqmlvmemetaobject_p.h */
+    *25QQmlInterceptorMetaObject*;
+    *17QQmlVMEMetaObject*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/types/qqmlbind_p.h */
+    *8QQmlBind*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/types/qqmlconnections_p.h */
+    *15QQmlConnections*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/types/qqmldelegatecomponent_p.h */
+    *29QQmlAbstractDelegateComponent*;
+    *18QQmlDelegateChoice*;
+    *19QQmlDelegateChooser*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/types/qqmldelegatemodel_p.h */
+    *17QQmlDelegateModel*;
+    *22QQmlDelegateModelGroup*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/types/qqmldelegatemodel_p_p.h */
+    *29QQmlDelegateModelItemMetaType*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/types/qqmlinstantiator_p.h */
+    *16QQmlInstantiator*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/types/qqmlinstantiator_p_p.h */
+    *23QQmlInstantiatorPrivate*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/types/qqmllistmodel_p.h */
+    *13QQmlListModel*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/types/qqmlmodelsmodule_p.h */
+    *16QQmlModelsModule*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/types/qqmlobjectmodel_p.h */
+    *17QQmlInstanceModel*;
+    *15QQmlObjectModel*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/types/qqmltableinstancemodel_p.h */
+    *22QQmlTableInstanceModel*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/types/qqmltimer_p.h */
+    *9QQmlTimer*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/types/qquickpackage_p.h */
+    *13QQuickPackage*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/types/qquickworkerscript_p.h */
+    *18QQuickWorkerScript*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/util/qqmladaptormodel_p.h */
+    *16QQmlAdaptorModel*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/util/qqmlchangeset_p.h */
+    *13QQmlChangeSet*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/util/qqmllistaccessor_p.h */
+    *16QQmlListAccessor*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/util/qqmllistcompositor_p.h */
+    *18QQmlListCompositor*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/qml/ftw/qhashedstring_p.h */
+    *13QHashedString*;
+    *16QHashedStringRef*;
+    *17QHashedCStringRef*;
+    *15QStringHashNode*;
+    *15QStringHashData*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/qml/ftw/qqmlrefcount_p.h */
+    *12QQmlRefCount*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/qml/v8/qqmlbuiltinfunctions_p.h */
+    *16GlobalExtensions*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/src/qml/qml/v8/qv8engine_p.h */
+    *12QQmlV4Handle*;
+    *9QV8Engine*;
+};
+Qt_5 { *; };
+Qt_5.0 {} Qt_5;
+Qt_5.1 {} Qt_5.0;
+Qt_5.2 {} Qt_5.1;
+Qt_5.3 {} Qt_5.2;
+Qt_5.4 {} Qt_5.3;
+Qt_5.5 {} Qt_5.4;
+Qt_5.6 {} Qt_5.5;
+Qt_5.7 {} Qt_5.6;
+Qt_5.8 {} Qt_5.7;
+Qt_5.9 {} Qt_5.8;
+Qt_5.10 {} Qt_5.9;
+Qt_5.11 {} Qt_5.10;
+Qt_5.12 { qt_version_tag; } Qt_5.11;

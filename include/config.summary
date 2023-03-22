@@ -1,0 +1,23 @@
+Qt QML:
+  QML network support .................... yes
+  QML debugging and profiling support .... yes
+  QML sequence object .................... yes
+  QML list model ......................... yes
+  QML XML http request ................... yes
+  QML Locale ............................. yes
+  QML delegate model ..................... yes
+Qt Quick:
+  Direct3D 12 ............................ no
+  AnimatedImage item ..................... yes
+  Canvas item ............................ yes
+  Support for Qt Quick Designer .......... yes
+  Flipable item .......................... yes
+  GridView item .......................... yes
+  ListView item .......................... yes
+  TableView item ......................... yes
+  Path support ........................... yes
+  PathView item .......................... yes
+  Positioner items ....................... yes
+  Repeater item .......................... yes
+  ShaderEffect item ...................... yes
+  Sprite item ............................ yes

@@ -1,0 +1,37 @@
+Qt_5_PRIVATE_API {
+    qt_private_api_tag*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/opengl/qgl_p.h */
+    *16QGLWidgetPrivate*;
+    *20QGLShareContextScope*;
+    *19QGLTextureDestroyer*;
+    *14QGLSignalProxy*;
+    *15QGLTextureCache*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/opengl/qglpaintdevice_p.h */
+    *14QGLPaintDevice*;
+    *22QGLWidgetGLPaintDevice*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/opengl/qgraphicsshadereffect_p.h */
+    *21QGraphicsShaderEffect*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/opengl/gl2paintengineex/qglcustomshaderstage_p.h */
+    *20QGLCustomShaderStage*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/opengl/gl2paintengineex/qglengineshadermanager_p.h */
+    *22QGLEngineSharedShaders*;
+    *22QGLEngineShaderManager*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/opengl/gl2paintengineex/qpaintengineex_opengl2_p.h */
+    *17QGL2PaintEngineEx*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/opengl/gl2paintengineex/qtextureglyphcache_gl_p.h */
+    *20QGLTextureGlyphCache*;
+};
+Qt_5 { *; };
+Qt_5.0 {} Qt_5;
+Qt_5.1 {} Qt_5.0;
+Qt_5.2 {} Qt_5.1;
+Qt_5.3 {} Qt_5.2;
+Qt_5.4 {} Qt_5.3;
+Qt_5.5 {} Qt_5.4;
+Qt_5.6 {} Qt_5.5;
+Qt_5.7 {} Qt_5.6;
+Qt_5.8 {} Qt_5.7;
+Qt_5.9 {} Qt_5.8;
+Qt_5.10 {} Qt_5.9;
+Qt_5.11 {} Qt_5.10;
+Qt_5.12 { qt_version_tag; } Qt_5.11;

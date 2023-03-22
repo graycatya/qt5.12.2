@@ -1,0 +1,151 @@
+Qt_5_PRIVATE_API {
+    qt_private_api_tag*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/widgets/dialogs/qdialog_p.h */
+    *14QDialogPrivate*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/widgets/dialogs/qfiledialog_p.h */
+    *18QFileDialogPrivate*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/widgets/dialogs/qfileinfogatherer_p.h */
+    *17QFileInfoGatherer*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/widgets/dialogs/qfilesystemmodel_p.h */
+    *23QFileSystemModelPrivate*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/widgets/dialogs/qfontdialog_p.h */
+    *18QFontDialogPrivate*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/widgets/dialogs/qfscompleter_p.h */
+    *12QFSCompleter*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/widgets/dialogs/qsidebar_p.h */
+    *9QUrlModel*;
+    *8QSidebar*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/widgets/effects/qgraphicseffect_p.h */
+    *21QGraphicsEffectSource*;
+    *22QGraphicsEffectPrivate*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/widgets/effects/qpixmapfilter_p.h */
+    *13QPixmapFilter*;
+    *24QPixmapConvolutionFilter*;
+    *17QPixmapBlurFilter*;
+    *21QPixmapColorizeFilter*;
+    *23QPixmapDropShadowFilter*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/widgets/graphicsview/qgraphicsanchorlayout_p.h */
+    *28QGraphicsAnchorLayoutPrivate*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/widgets/graphicsview/qgraphicsitem_p.h */
+    *20QGraphicsItemPrivate*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/widgets/graphicsview/qgraphicslayout_p.h */
+    *22QGraphicsLayoutPrivate*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/widgets/graphicsview/qgraphicslayoutitem_p.h */
+    *26QGraphicsLayoutItemPrivate*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/widgets/graphicsview/qgraphicsproxywidget_p.h */
+    *27QGraphicsProxyWidgetPrivate*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/widgets/graphicsview/qgraphicsscene_p.h */
+    *21QGraphicsScenePrivate*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/widgets/graphicsview/qgraphicsscenebsptreeindex_p.h */
+    *26QGraphicsSceneBspTreeIndex*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/widgets/graphicsview/qgraphicssceneindex_p.h */
+    *19QGraphicsSceneIndex*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/widgets/graphicsview/qgraphicsscenelinearindex_p.h */
+    *25QGraphicsSceneLinearIndex*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/widgets/graphicsview/qgraphicstransform_p.h */
+    *25QGraphicsTransformPrivate*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/widgets/graphicsview/qgraphicsview_p.h */
+    *20QGraphicsViewPrivate*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/widgets/itemviews/qabstractitemdelegate_p.h */
+    *28QAbstractItemDelegatePrivate*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/widgets/itemviews/qabstractitemview_p.h */
+    *24QAbstractItemViewPrivate*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/widgets/itemviews/qcolumnview_p.h */
+    *18QColumnViewPrivate*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/widgets/itemviews/qcolumnviewgrip_p.h */
+    *15QColumnViewGrip*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/widgets/itemviews/qlistview_p.h */
+    *16QListViewPrivate*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/widgets/itemviews/qlistwidget_p.h */
+    *10QListModel*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/widgets/itemviews/qtableview_p.h */
+    *15QSpanCollection*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/widgets/itemviews/qtreeview_p.h */
+    *16QTreeViewPrivate*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/widgets/kernel/qaction_p.h */
+    *14QActionPrivate*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/widgets/kernel/qapplication_p.h */
+    *19QApplicationPrivate*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/widgets/kernel/qlayout_p.h */
+    *14QLayoutPrivate*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/widgets/kernel/qwidget_p.h */
+    *26QWidgetBackingStoreTracker*;
+    *14QWidgetPrivate*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/widgets/kernel/qwidgetbackingstore_p.h */
+    *19QWidgetBackingStore*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/widgets/kernel/qwindowcontainer_p.h */
+    *16QWindowContainer*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/widgets/statemachine/qbasickeyeventtransition_p.h */
+    *24QBasicKeyEventTransition*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/widgets/statemachine/qbasicmouseeventtransition_p.h */
+    *26QBasicMouseEventTransition*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/widgets/styles/qcommonstyle_p.h */
+    *19QCommonStylePrivate*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/widgets/styles/qfusionstyle_p.h */
+    *12QFusionStyle*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/widgets/styles/qpixmapstyle_p.h */
+    *12QPixmapStyle*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/widgets/styles/qstyleanimation_p.h */
+    *15QStyleAnimation*;
+    *23QProgressStyleAnimation*;
+    *21QNumberStyleAnimation*;
+    *20QBlendStyleAnimation*;
+    *24QScrollbarStyleAnimation*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/widgets/styles/qstylesheetstyle_p.h */
+    *16QStyleSheetStyle*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/widgets/styles/qwindowsstyle_p.h */
+    *13QWindowsStyle*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/widgets/styles/qwindowsstyle_p_p.h */
+    *20QWindowsStylePrivate*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/widgets/util/qflickgesture_p.h */
+    *13QFlickGesture*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/widgets/widgets/qabstractscrollarea_p.h */
+    *26QAbstractScrollAreaPrivate*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/widgets/widgets/qcombobox_p.h */
+    *24QComboBoxPrivateScroller*;
+    *25QComboBoxPrivateContainer*;
+    *18QComboMenuDelegate*;
+    *17QComboBoxDelegate*;
+    *16QComboBoxPrivate*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/widgets/widgets/qdatetimeedit_p.h */
+    *20QDateTimeEditPrivate*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/widgets/widgets/qdockarealayout_p.h */
+    *16QPlaceHolderItem*;
+    *19QDockAreaLayoutInfo*;
+    *15QDockAreaLayout*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/widgets/widgets/qdockwidget_p.h */
+    *17QDockWidgetLayout*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/widgets/widgets/qframe_p.h */
+    *13QFramePrivate*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/widgets/widgets/qlabel_p.h */
+    *13QLabelPrivate*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/widgets/widgets/qlineedit_p.h */
+    *19QLineEditIconButton*;
+    *16QLineEditPrivate*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/widgets/widgets/qmainwindowlayout_p.h */
+    *17QMainWindowLayout*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/widgets/widgets/qtabbar_p.h */
+    *14QTabBarPrivate*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/widgets/widgets/qtoolbarextension_p.h */
+    *17QToolBarExtension*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/widgets/widgets/qwidgetlinecontrol_p.h */
+    *18QWidgetLineControl*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/widgets/widgets/qwidgetresizehandler_p.h */
+    *20QWidgetResizeHandler*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/widgets/widgets/qwidgettextcontrol_p.h */
+    *18QWidgetTextControl*;
+};
+Qt_5 { *; };
+Qt_5.0 {} Qt_5;
+Qt_5.1 {} Qt_5.0;
+Qt_5.2 {} Qt_5.1;
+Qt_5.3 {} Qt_5.2;
+Qt_5.4 {} Qt_5.3;
+Qt_5.5 {} Qt_5.4;
+Qt_5.6 {} Qt_5.5;
+Qt_5.7 {} Qt_5.6;
+Qt_5.8 {} Qt_5.7;
+Qt_5.9 {} Qt_5.8;
+Qt_5.10 {} Qt_5.9;
+Qt_5.11 {} Qt_5.10;
+Qt_5.12 { qt_version_tag; } Qt_5.11;

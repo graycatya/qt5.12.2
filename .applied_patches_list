@@ -1,0 +1,9 @@
+/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/package/qt5/qt5base//5.12.2/0001-qtbase-Fix-build-error-when-using-EGL.patch
+/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/package/qt5/qt5base//5.12.2/0002-double-conversion-enable-for-microblaze.patch
+/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/package/qt5/qt5base//5.12.2/0003-Fix-error-attribute-target-crc-is-unknown.patch
+/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/package/qt5/qt5base//5.12.2/0004-qt5base-fix-QT-eglfs-display-bug.patch
+/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/package/qt5/qt5base//5.12.2/0005-qoffscreensurface-Clear-current-surface-before-destr.patch
+/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/package/qt5/qt5base//5.12.2/0006-qwindow-Add-interface-to-override-win-id-for-video-w.patch
+/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/package/qt5/qt5base//5.12.2/0007-eglfs_kms-Support-EGL-platform-display.patch
+/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/package/qt5/qt5base//5.12.2/0008-linuxfb-Use-triple-buffer-by-default.patch
+/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/package/qt5/qt5base//5.12.2/0009-linuxfb-Support-rotate.patch

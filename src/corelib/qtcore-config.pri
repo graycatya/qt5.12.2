@@ -1,0 +1,13 @@
+QT.core.enabled_features = properties animation textcodec big_codecs codecs commandlineparser cxx11_future textdate datestring filesystemiterator filesystemwatcher gestures itemmodel proxymodel identityproxymodel library mimetype processenvironment process statemachine qeventtransition regularexpression settings sharedmemory sortfilterproxymodel std-atomic64 stringlistmodel systemsemaphore temporaryfile timezone topleveldomain translation xmlstream xmlstreamreader xmlstreamwriter
+QT.core.disabled_features = 
+QT.core.QT_CONFIG = properties animation textcodec big_codecs clock-monotonic codecs textdate datestring doubleconversion eventfd filesystemiterator filesystemwatcher gestures glib itemmodel proxymodel identityproxymodel inotify library mimetype process statemachine regularexpression settings sharedmemory sortfilterproxymodel stringlistmodel systemsemaphore temporaryfile threadsafe-cloexec translation xmlstream xmlstreamreader xmlstreamwriter
+QT.core.exports = 
+QT.core_private.enabled_features = clock-gettime datetimeparser dlopen doubleconversion futimens getauxval getentropy glib inotify linkat poll_ppoll renameat2 sha3-fast statx system-pcre2
+QT.core_private.disabled_features = etw futimes gnu-libiconv iconv icu journald lttng poll_poll poll_pollts poll_select posix-libiconv slog2 syslog system-doubleconversion
+QT.core_private.libraries = librt libdl glib libatomic pcre2
+QMAKE_LIBS_LIBRT = 
+QMAKE_LIBS_LIBDL = 
+QMAKE_LIBS_GLIB = /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/host/aarch64-buildroot-linux-gnu/sysroot/usr/lib/libgthread-2.0.so /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/host/aarch64-buildroot-linux-gnu/sysroot/usr/lib/libglib-2.0.so
+QMAKE_INCDIR_GLIB = /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/glib-2.0 /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/host/aarch64-buildroot-linux-gnu/sysroot/usr/lib/glib-2.0/include
+QMAKE_LIBS_LIBATOMIC = 
+QMAKE_LIBS_PCRE2 = /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/host/aarch64-buildroot-linux-gnu/sysroot/usr/lib/libpcre2-16.so

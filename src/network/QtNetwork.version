@@ -1,0 +1,82 @@
+Qt_5_PRIVATE_API {
+    qt_private_api_tag*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/network/access/qftp_p.h */
+    *4QFtp*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/network/access/qhsts_p.h */
+    *10QHstsCache*;
+    *17QHstsHeaderParser*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/network/access/qhstsstore_p.h */
+    *10QHstsStore*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/network/access/qhttpmultipart_p.h */
+    *22QHttpMultiPartIODevice*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/network/access/qhttpnetworkconnection_p.h */
+    *22QHttpNetworkConnection*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/network/access/qhttpnetworkheader_p.h */
+    *18QHttpNetworkHeader*;
+    *25QHttpNetworkHeaderPrivate*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/network/access/qhttpnetworkreply_p.h */
+    *17QHttpNetworkReply*;
+    *24QHttpNetworkReplyPrivate*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/network/access/qhttpnetworkrequest_p.h */
+    *19QHttpNetworkRequest*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/network/bearer/qbearerengine_p.h */
+    *13QBearerEngine*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/network/bearer/qbearerplugin_p.h */
+    *19QBearerEnginePlugin*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/network/bearer/qnetworkconfigmanager_p.h */
+    *35QNetworkConfigurationManagerPrivate*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/network/bearer/qnetworksession_p.h */
+    *22QNetworkSessionPrivate*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/network/kernel/qauthenticator_p.h */
+    *21QAuthenticatorPrivate*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/network/kernel/qurlinfo_p.h */
+    *8QUrlInfo*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/network/socket/qabstractsocketengine_p.h */
+    *21QAbstractSocketEngine*;
+    *20QSocketEngineHandler*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/network/socket/qhttpsocketengine_p.h */
+    *17QHttpSocketEngine*;
+    *24QHttpSocketEngineHandler*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/network/socket/qnativesocketengine_p.h */
+    *19QNativeSocketEngine*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/network/socket/qnativesocketengine_winrt_p.h */
+    *19QNativeSocketEngine*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/network/socket/qsocks5socketengine_p.h */
+    *19QSocks5SocketEngine*;
+    *26QSocks5SocketEngineHandler*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/network/socket/qtcpserver_p.h */
+    *17QTcpServerPrivate*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/network/ssl/qasn1element_p.h */
+    *12QAsn1Element*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/network/access/http2/bitstreams_p.h */
+    *10BitOStream*;
+    *10BitIStream*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/network/access/http2/hpack_p.h */
+    *7Encoder*;
+    *7Decoder*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/network/access/http2/hpacktable_p.h */
+    *11HeaderField*;
+    *16FieldLookupTable*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/network/access/http2/http2frames_p.h */
+    *5Frame*;
+    *11FrameReader*;
+    *11FrameWriter*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/network/access/http2/http2protocol_p.h */
+    *18ProtocolParameters*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/network/access/http2/http2streams_p.h */
+    *6Stream*;
+};
+Qt_5 { *; };
+Qt_5.0 {} Qt_5;
+Qt_5.1 {} Qt_5.0;
+Qt_5.2 {} Qt_5.1;
+Qt_5.3 {} Qt_5.2;
+Qt_5.4 {} Qt_5.3;
+Qt_5.5 {} Qt_5.4;
+Qt_5.6 {} Qt_5.5;
+Qt_5.7 {} Qt_5.6;
+Qt_5.8 {} Qt_5.7;
+Qt_5.9 {} Qt_5.8;
+Qt_5.10 {} Qt_5.9;
+Qt_5.11 {} Qt_5.10;
+Qt_5.12 { qt_version_tag; } Qt_5.11;

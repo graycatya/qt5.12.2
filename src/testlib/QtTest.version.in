@@ -1,0 +1,49 @@
+Qt_5_PRIVATE_API {
+    qt_private_api_tag*;
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/testlib/qabstracttestlogger_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/testlib/qappletestlogger_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/testlib/qbenchmark_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/testlib/qbenchmarkevent_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/testlib/qbenchmarkmeasurement_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/testlib/qbenchmarkmetric_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/testlib/qbenchmarkperfevents_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/testlib/qbenchmarktimemeasurers_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/testlib/qbenchmarkvalgrind_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/testlib/qcsvbenchmarklogger_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/testlib/qplaintestlogger_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/testlib/qsignaldumper_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/testlib/qtaptestlogger_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/testlib/qteamcitylogger_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/testlib/qtestblacklist_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/testlib/qtestcoreelement_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/testlib/qtestcorelist_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/testlib/qtestelement_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/testlib/qtestelementattribute_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/testlib/qtesthelpers_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/testlib/qtestlog_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/testlib/qtestresult_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/testlib/qtesttable_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/testlib/qtestutil_macos_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/testlib/qtestxunitstreamer_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/testlib/qxctestlogger_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/testlib/qxmltestlogger_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/testlib/qxunittestlogger_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/testlib/3rdparty/callgrind_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/testlib/3rdparty/cycle_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/testlib/3rdparty/linux_perf_event_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/testlib/3rdparty/valgrind_p.h@
+};
+Qt_5 { *; };
+Qt_5.0 {} Qt_5;
+Qt_5.1 {} Qt_5.0;
+Qt_5.2 {} Qt_5.1;
+Qt_5.3 {} Qt_5.2;
+Qt_5.4 {} Qt_5.3;
+Qt_5.5 {} Qt_5.4;
+Qt_5.6 {} Qt_5.5;
+Qt_5.7 {} Qt_5.6;
+Qt_5.8 {} Qt_5.7;
+Qt_5.9 {} Qt_5.8;
+Qt_5.10 {} Qt_5.9;
+Qt_5.11 {} Qt_5.10;
+Qt_5.12 { qt_version_tag; } Qt_5.11;

@@ -1,0 +1,83 @@
+Qt_5_PRIVATE_API {
+    qt_private_api_tag*;
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5multimedia-5.12.2/src/multimedia/qmediacontrol_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5multimedia-5.12.2/src/multimedia/qmediaobject_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5multimedia-5.12.2/src/multimedia/qmediaopenglhelper_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5multimedia-5.12.2/src/multimedia/qmediapluginloader_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5multimedia-5.12.2/src/multimedia/qmediaresourcepolicy_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5multimedia-5.12.2/src/multimedia/qmediaresourcepolicyplugin_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5multimedia-5.12.2/src/multimedia/qmediaresourceset_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5multimedia-5.12.2/src/multimedia/qmediaservice_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5multimedia-5.12.2/src/multimedia/qmediaserviceprovider_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5multimedia-5.12.2/src/multimedia/qmediastoragelocation_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5multimedia-5.12.2/src/multimedia/qmultimediautils_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5multimedia-5.12.2/src/multimedia/qtmultimediaglobal_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5multimedia-5.12.2/src/multimedia/audio/qaudiobuffer_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5multimedia-5.12.2/src/multimedia/audio/qaudiodevicefactory_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5multimedia-5.12.2/src/multimedia/audio/qaudiohelpers_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5multimedia-5.12.2/src/multimedia/audio/qaudiosystempluginext_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5multimedia-5.12.2/src/multimedia/audio/qsamplecache_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5multimedia-5.12.2/src/multimedia/audio/qsoundeffect_pulse_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5multimedia-5.12.2/src/multimedia/audio/qsoundeffect_qaudio_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5multimedia-5.12.2/src/multimedia/audio/qwavedecoder_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5multimedia-5.12.2/src/multimedia/camera/qcamera_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5multimedia-5.12.2/src/multimedia/controls/qmediaplaylistcontrol_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5multimedia-5.12.2/src/multimedia/controls/qmediaplaylistsourcecontrol_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5multimedia-5.12.2/src/multimedia/gsttools_headers/gstvideoconnector_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5multimedia-5.12.2/src/multimedia/gsttools_headers/qgstappsrc_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5multimedia-5.12.2/src/multimedia/gsttools_headers/qgstbufferpoolinterface_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5multimedia-5.12.2/src/multimedia/gsttools_headers/qgstcodecsinfo_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5multimedia-5.12.2/src/multimedia/gsttools_headers/qgstreameraudioinputselector_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5multimedia-5.12.2/src/multimedia/gsttools_headers/qgstreameraudioprobecontrol_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5multimedia-5.12.2/src/multimedia/gsttools_headers/qgstreamerbufferprobe_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5multimedia-5.12.2/src/multimedia/gsttools_headers/qgstreamerbushelper_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5multimedia-5.12.2/src/multimedia/gsttools_headers/qgstreamermessage_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5multimedia-5.12.2/src/multimedia/gsttools_headers/qgstreamermirtexturerenderer_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5multimedia-5.12.2/src/multimedia/gsttools_headers/qgstreamerplayercontrol_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5multimedia-5.12.2/src/multimedia/gsttools_headers/qgstreamerplayersession_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5multimedia-5.12.2/src/multimedia/gsttools_headers/qgstreamervideoinputdevicecontrol_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5multimedia-5.12.2/src/multimedia/gsttools_headers/qgstreamervideooverlay_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5multimedia-5.12.2/src/multimedia/gsttools_headers/qgstreamervideoprobecontrol_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5multimedia-5.12.2/src/multimedia/gsttools_headers/qgstreamervideorenderer_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5multimedia-5.12.2/src/multimedia/gsttools_headers/qgstreamervideorendererinterface_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5multimedia-5.12.2/src/multimedia/gsttools_headers/qgstreamervideowidget_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5multimedia-5.12.2/src/multimedia/gsttools_headers/qgstreamervideowindow_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5multimedia-5.12.2/src/multimedia/gsttools_headers/qgsttools_global_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5multimedia-5.12.2/src/multimedia/gsttools_headers/qgstutils_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5multimedia-5.12.2/src/multimedia/gsttools_headers/qgstvideobuffer_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5multimedia-5.12.2/src/multimedia/gsttools_headers/qgstvideorendererplugin_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5multimedia-5.12.2/src/multimedia/gsttools_headers/qgstvideorenderersink_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5multimedia-5.12.2/src/multimedia/gsttools_headers/qvideosurfacegstsink_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5multimedia-5.12.2/src/multimedia/playback/qmedianetworkplaylistprovider_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5multimedia-5.12.2/src/multimedia/playback/qmediaplaylist_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5multimedia-5.12.2/src/multimedia/playback/qmediaplaylistioplugin_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5multimedia-5.12.2/src/multimedia/playback/qmediaplaylistnavigator_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5multimedia-5.12.2/src/multimedia/playback/qmediaplaylistprovider_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5multimedia-5.12.2/src/multimedia/playback/qplaylistfileparser_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5multimedia-5.12.2/src/multimedia/qtmultimediaquicktools_headers/qdeclarativevideooutput_backend_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5multimedia-5.12.2/src/multimedia/qtmultimediaquicktools_headers/qdeclarativevideooutput_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5multimedia-5.12.2/src/multimedia/qtmultimediaquicktools_headers/qsgvideonode_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5multimedia-5.12.2/src/multimedia/qtmultimediaquicktools_headers/qtmultimediaquickdefs_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5multimedia-5.12.2/src/multimedia/recording/qmediarecorder_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5multimedia-5.12.2/src/multimedia/video/qabstractvideobuffer_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5multimedia-5.12.2/src/multimedia/video/qimagevideobuffer_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5multimedia-5.12.2/src/multimedia/video/qmemoryvideobuffer_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5multimedia-5.12.2/src/multimedia/video/qvideoframe_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5multimedia-5.12.2/src/multimedia/video/qvideoframeconversionhelper_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5multimedia-5.12.2/src/multimedia/video/qvideooutputorientationhandler_p.h@
+    @FILE:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5multimedia-5.12.2/src/multimedia/video/qvideosurfaceoutput_p.h@
+};
+Qt_5 { *; };
+Qt_5.0 {} Qt_5;
+Qt_5.1 {} Qt_5.0;
+Qt_5.2 {} Qt_5.1;
+Qt_5.3 {} Qt_5.2;
+Qt_5.4 {} Qt_5.3;
+Qt_5.5 {} Qt_5.4;
+Qt_5.6 {} Qt_5.5;
+Qt_5.7 {} Qt_5.6;
+Qt_5.8 {} Qt_5.7;
+Qt_5.9 {} Qt_5.8;
+Qt_5.10 {} Qt_5.9;
+Qt_5.11 {} Qt_5.10;
+Qt_5.12 { qt_version_tag; } Qt_5.11;

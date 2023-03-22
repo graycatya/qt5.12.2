@@ -1,0 +1,15 @@
+Command line: 
+executing config test d3d12
++ cd /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/config.tests/d3d12 && PKG_CONFIG_SYSROOT_DIR=/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/host/aarch64-buildroot-linux-gnu/sysroot PKG_CONFIG_LIBDIR=/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/host/aarch64-buildroot-linux-gnu/sysroot/usr/lib/pkgconfig:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/host/aarch64-buildroot-linux-gnu/sysroot/usr/share/pkgconfig:/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/host/aarch64-buildroot-linux-gnu/sysroot/usr/lib/aarch64-buildroot-linux-gnu/pkgconfig /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/host/bin/qmake "CONFIG -= qt debug_and_release app_bundle lib_bundle" "CONFIG += shared warn_off console single_arch" -early "CONFIG += cross_compile" /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/config.tests/d3d12
+> Info: creating stash file /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/config.tests/.qmake.stash
++ cd /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/config.tests/d3d12 && MAKEFLAGS= make
+> make[2]: Entering directory '/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/config.tests/d3d12'
+> /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/host/bin/aarch64-buildroot-linux-gnu-g++ -c -pipe -D_LARGEFILE_SOURCE -D_LARGEFILE64_SOURCE -D_FILE_OFFSET_BITS=64 -Os -DUSE_UPDATEENGINE=ON -DSUCCESSFUL_BOOT=ON --sysroot=/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/host/aarch64-buildroot-linux-gnu/sysroot -O2 -O3 -w -fPIC  -I. -I/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/host/mkspecs/devices/linux-buildroot-g++ -o d3d12.o d3d12.cpp
+> d3d12.cpp:40:19: fatal error: d3d12.h: No such file or directory
+>  #include <d3d12.h>
+>                    ^
+> compilation terminated.
+> Makefile:257: recipe for target 'd3d12.o' failed
+> make[2]: *** [d3d12.o] Error 1
+> make[2]: Leaving directory '/home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5declarative-5.12.2/config.tests/d3d12'
+test config.qtdeclarative_quick.tests.d3d12 FAILED

@@ -1,0 +1,14 @@
+QT.bootstrap_dbus_private.VERSION = 5.12.2
+QT.bootstrap_dbus_private.name = QtBootstrapDBus
+QT.bootstrap_dbus_private.module = Qt5BootstrapDBus
+QT.bootstrap_dbus_private.libs = $$QT_MODULE_HOST_LIB_BASE
+QT.bootstrap_dbus_private.includes = $$QT_MODULE_INCLUDE_BASE $$QT_MODULE_INCLUDE_BASE/QtDBus $$QT_MODULE_INCLUDE_BASE/QtDBus/5.12.2 $$QT_MODULE_INCLUDE_BASE/QtDBus/5.12.2/QtDBus
+QT.bootstrap_dbus_private.frameworks =
+QT.bootstrap_dbus_private.depends = bootstrap_private
+QT.bootstrap_dbus_private.uses =
+QT.bootstrap_dbus_private.module_config = v2 staticlib internal_module
+QT.bootstrap_dbus_private.DEFINES = QT_BOOTSTRAP_DBUS_LIB
+QT.bootstrap_dbus_private.enabled_features =
+QT.bootstrap_dbus_private.disabled_features =
+QT_CONFIG +=
+QT_MODULES += bootstrap_dbus

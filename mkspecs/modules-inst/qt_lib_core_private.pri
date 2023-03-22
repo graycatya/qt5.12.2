@@ -1,0 +1,17 @@
+QT.core_private.VERSION = 5.12.2
+QT.core_private.name = QtCore
+QT.core_private.module =
+QT.core_private.libs = $$QT_MODULE_LIB_BASE
+QT.core_private.includes = $$QT_MODULE_INCLUDE_BASE/QtCore/5.12.2 $$QT_MODULE_INCLUDE_BASE/QtCore/5.12.2/QtCore
+QT.core_private.frameworks =
+QT.core_private.depends = core
+QT.core_private.uses =
+QT.core_private.module_config = v2 internal_module
+QT.core_private.enabled_features = clock-gettime datetimeparser dlopen doubleconversion futimens getauxval getentropy glib inotify linkat poll_ppoll renameat2 sha3-fast statx system-pcre2
+QT.core_private.disabled_features = etw futimes gnu-libiconv iconv icu journald lttng poll_poll poll_pollts poll_select posix-libiconv slog2 syslog system-doubleconversion
+QMAKE_LIBS_LIBRT = 
+QMAKE_LIBS_LIBDL = 
+QMAKE_LIBS_GLIB = /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/host/aarch64-buildroot-linux-gnu/sysroot/usr/lib/libgthread-2.0.so /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/host/aarch64-buildroot-linux-gnu/sysroot/usr/lib/libglib-2.0.so
+QMAKE_INCDIR_GLIB = /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/glib-2.0 /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/host/aarch64-buildroot-linux-gnu/sysroot/usr/lib/glib-2.0/include
+QMAKE_LIBS_LIBATOMIC = 
+QMAKE_LIBS_PCRE2 = /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/host/aarch64-buildroot-linux-gnu/sysroot/usr/lib/libpcre2-16.so

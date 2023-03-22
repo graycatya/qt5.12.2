@@ -1,0 +1,270 @@
+Qt_5_PRIVATE_API {
+    qt_private_api_tag*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/accessible/qaccessiblecache_p.h */
+    *16QAccessibleCache*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/image/qicon_p.h */
+    *17QPixmapIconEngine*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/image/qiconloader_p.h */
+    *11QIconLoader*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/image/qimage_p.h */
+    *10QImageData*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/image/qimagepixmapcleanuphooks_p.h */
+    *24QImagePixmapCleanupHooks*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/image/qpixmap_raster_p.h */
+    *21QRasterPlatformPixmap*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/kernel/qdnd_p.h */
+    *12QDragManager*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/kernel/qguiapplication_p.h */
+    *22QGuiApplicationPrivate*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/kernel/qhighdpiscaling_p.h */
+    *15QHighDpiScaling*;
+    *15QHighDpiScaling*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/kernel/qinputdevicemanager_p.h */
+    *19QInputDeviceManager*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/kernel/qinputdevicemanager_p_p.h */
+    *26QInputDeviceManagerPrivate*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/kernel/qinternalmimedata_p.h */
+    *17QInternalMimeData*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/kernel/qkeymapper_p.h */
+    *10QKeyMapper*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/kernel/qopenglcontext_p.h */
+    *21QOpenGLSharedResource*;
+    *26QOpenGLSharedResourceGuard*;
+    *26QOpenGLContextGroupPrivate*;
+    *31QOpenGLMultiGroupSharedResource*;
+    *21QOpenGLContextPrivate*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/kernel/qpaintdevicewindow_p.h */
+    *25QPaintDeviceWindowPrivate*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/kernel/qshortcutmap_p.h */
+    *12QShortcutMap*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/kernel/qsimpledrag_p.h */
+    *10QBasicDrag*;
+    *11QSimpleDrag*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/kernel/qwindow_p.h */
+    *14QWindowPrivate*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/opengl/qopengl_p.h */
+    *23QOpenGLExtensionMatcher*;
+    *13QOpenGLConfig*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/opengl/qopenglcustomshaderstage_p.h */
+    *24QOpenGLCustomShaderStage*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/opengl/qopenglengineshadermanager_p.h */
+    *26QOpenGLEngineSharedShaders*;
+    *26QOpenGLEngineShaderManager*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/opengl/qopenglextensions_p.h */
+    *17QOpenGLExtensions*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/opengl/qopenglpaintdevice_p.h */
+    *25QOpenGLPaintDevicePrivate*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/opengl/qopenglpaintengine_p.h */
+    *21QOpenGL2PaintEngineEx*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/opengl/qopengltexturecache_p.h */
+    *19QOpenGLTextureCache*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/opengl/qopengltextureglyphcache_p.h */
+    *24QOpenGLTextureGlyphCache*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/opengl/qopengltextureuploader_p.h */
+    *22QOpenGLTextureUploader*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/painting/qbezier_p.h */
+    *7QBezier*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/painting/qblittable_p.h */
+    *10QBlittable*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/painting/qcolorprofile_p.h */
+    *13QColorProfile*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/painting/qcoregraphics_p.h */
+    *13QMacCGContext*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/painting/qpagedpaintdevice_p.h */
+    *24QPagedPaintDevicePrivate*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/painting/qpaintengine_blitter_p.h */
+    *19QBlitterPaintEngine*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/painting/qpaintengine_p.h */
+    *19QPaintEnginePrivate*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/painting/qpaintengine_raster_p.h */
+    *18QRasterPaintEngine*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/painting/qpaintengineex_p.h */
+    *14QPaintEngineEx*;
+    *21QPaintEngineExPrivate*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/painting/qpainter_p.h */
+    *13QPainterState*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/painting/qpathclipper_p.h */
+    *12QPathClipper*;
+    *11QWingedEdge*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/painting/qpdf_p.h */
+    *10QPdfEngine*;
+    *17QPdfEnginePrivate*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/painting/qstroker_p.h */
+    *11QStrokerOps*;
+    *8QStroker*;
+    *12QDashStroker*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/painting/qtextureglyphcache_p.h */
+    *18QTextureGlyphCache*;
+    *23QImageTextureGlyphCache*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/painting/qtriangulatingstroker_p.h */
+    *21QTriangulatingStroker*;
+    *22QDashedStrokeProcessor*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/painting/qtriangulator_p.h */
+    *18QVertexIndexVector*;
+    *12QTriangleSet*;
+    *12QPolylineSet*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/painting/qvectorpath_p.h */
+    *11QVectorPath*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/text/qabstracttextdocumentlayout_p.h */
+    *34QAbstractTextDocumentLayoutPrivate*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/text/qcssparser_p.h */
+    *11Declaration*;
+    *8Selector*;
+    *13StyleSelector*;
+    *7Scanner*;
+    *6Parser*;
+    *14ValueExtractor*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/text/qdistancefield_p.h */
+    *18QDistanceFieldData*;
+    *14QDistanceField*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/text/qfont_p.h */
+    *12QFontPrivate*;
+    *10QFontCache*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/text/qfontengine_p.h */
+    *11QFontEngine*;
+    *16QFontEngineMulti*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/text/qfontengine_qpf2_p.h */
+    *15QFontEngineQPF2*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/text/qfontengineglyphcache_p.h */
+    *21QFontEngineGlyphCache*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/text/qinputcontrol_p.h */
+    *13QInputControl*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/text/qrawfont_p.h */
+    *15QRawFontPrivate*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/text/qstatictext_p.h */
+    *19QStaticTextUserData*;
+    *15QStaticTextItem*;
+    *18QStaticTextPrivate*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/text/qtextcursor_p.h */
+    *18QTextCursorPrivate*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/text/qtextdocument_p.h */
+    *20QTextDocumentPrivate*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/text/qtextdocumentlayout_p.h */
+    *19QTextDocumentLayout*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/text/qtextengine_p.h */
+    *15glyph_metrics_t*;
+    *15QScriptAnalysis*;
+    *11QScriptLine*;
+    *11QTextEngine*;
+    *16QStackTextEngine*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/text/qtextformat_p.h */
+    *21QTextFormatCollection*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/text/qtextimagehandler_p.h */
+    *17QTextImageHandler*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/text/qtextodfwriter_p.h */
+    *14QTextOdfWriter*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/text/qzipreader_p.h */
+    *10QZipReader*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/text/qzipwriter_p.h */
+    *10QZipWriter*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/util/qabstractlayoutstyleinfo_p.h */
+    *24QAbstractLayoutStyleInfo*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/util/qgridlayoutengine_p.h */
+    *14QGridLayoutBox*;
+    *15QGridLayoutItem*;
+    *17QGridLayoutEngine*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/util/qlayoutpolicy_p.h */
+    *13QLayoutPolicy*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/util/qtexturefiledata_p.h */
+    *16QTextureFileData*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/util/qtexturefilereader_p.h */
+    *18QTextureFileReader*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/accessible/qplatformaccessibility.h */
+    *22QPlatformAccessibility*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/image/qplatformpixmap.h */
+    *15QPlatformPixmap*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/kernel/qplatformclipboard.h */
+    *18QPlatformClipboard*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/kernel/qplatformcursor.h */
+    *20QPlatformCursorImage*;
+    *15QPlatformCursor*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/kernel/qplatformdialoghelper.h */
+    *21QPlatformDialogHelper*;
+    *19QColorDialogOptions*;
+    *26QPlatformColorDialogHelper*;
+    *18QFontDialogOptions*;
+    *25QPlatformFontDialogHelper*;
+    *18QFileDialogOptions*;
+    *25QPlatformFileDialogHelper*;
+    *21QMessageDialogOptions*;
+    *28QPlatformMessageDialogHelper*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/kernel/qplatformdrag.h */
+    *23QPlatformDropQtResponse*;
+    *23QPlatformDragQtResponse*;
+    *13QPlatformDrag*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/kernel/qplatformgraphicsbuffer.h */
+    *23QPlatformGraphicsBuffer*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/kernel/qplatforminputcontext.h */
+    *21QPlatformInputContext*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/kernel/qplatforminputcontextfactory_p.h */
+    *28QPlatformInputContextFactory*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/kernel/qplatforminputcontextplugin_p.h */
+    *27QPlatformInputContextPlugin*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/kernel/qplatformintegration.h */
+    *20QPlatformIntegration*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/kernel/qplatformintegrationfactory_p.h */
+    *27QPlatformIntegrationFactory*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/kernel/qplatformintegrationplugin.h */
+    *26QPlatformIntegrationPlugin*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/kernel/qplatformmenu.h */
+    *17QPlatformMenuItem*;
+    *13QPlatformMenu*;
+    *16QPlatformMenuBar*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/kernel/qplatformnativeinterface.h */
+    *24QPlatformNativeInterface*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/kernel/qplatformoffscreensurface.h */
+    *25QPlatformOffscreenSurface*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/kernel/qplatformopenglcontext.h */
+    *22QPlatformOpenGLContext*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/kernel/qplatformscreen.h */
+    *15QPlatformScreen*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/kernel/qplatformservices.h */
+    *17QPlatformServices*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/kernel/qplatformsessionmanager.h */
+    *23QPlatformSessionManager*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/kernel/qplatformsharedgraphicscache.h */
+    *28QPlatformSharedGraphicsCache*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/kernel/qplatformsurface.h */
+    *16QPlatformSurface*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/kernel/qplatformsystemtrayicon.h */
+    *23QPlatformSystemTrayIcon*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/kernel/qplatformtheme.h */
+    *14QPlatformTheme*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/kernel/qplatformtheme_p.h */
+    *21QPlatformThemePrivate*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/kernel/qplatformthemefactory_p.h */
+    *21QPlatformThemeFactory*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/kernel/qplatformthemeplugin.h */
+    *20QPlatformThemePlugin*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/kernel/qplatformwindow.h */
+    *15QPlatformWindow*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/kernel/qwindowsysteminterface.h */
+    *22QWindowSystemInterface*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/kernel/qwindowsysteminterface_p.h */
+    *29QWindowSystemInterfacePrivate*;
+    *25QWindowSystemEventHandler*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/painting/qplatformbackingstore.h */
+    *20QPlatformTextureList*;
+    *21QPlatformBackingStore*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/text/qplatformfontdatabase.h */
+    *24QSupportedWritingSystems*;
+    *21QPlatformFontDatabase*;
+    /* /home/pangxiongfei/work/project/rockchip/dicpen_rk3326_linux/buildroot/output/rockchip_rk3326_64/build/qt5base-5.12.2/src/gui/vulkan/qplatformvulkaninstance.h */
+    *23QPlatformVulkanInstance*;
+    *16QVulkanFunctions*;
+    *22QVulkanDeviceFunctions*;
+};
+Qt_5 { *; };
+Qt_5.0 {} Qt_5;
+Qt_5.1 {} Qt_5.0;
+Qt_5.2 {} Qt_5.1;
+Qt_5.3 {} Qt_5.2;
+Qt_5.4 {} Qt_5.3;
+Qt_5.5 {} Qt_5.4;
+Qt_5.6 {} Qt_5.5;
+Qt_5.7 {} Qt_5.6;
+Qt_5.8 {} Qt_5.7;
+Qt_5.9 {} Qt_5.8;
+Qt_5.10 {} Qt_5.9;
+Qt_5.11 {} Qt_5.10;
+Qt_5.12 { qt_version_tag; } Qt_5.11;
